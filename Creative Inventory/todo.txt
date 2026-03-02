@@ -1,0 +1,45 @@
+V 1.1
+
+    Completed:
+    
+        - Reorganize the entire mod
+        - 1qu, 10qu, 100qu, 1qn, 10qn, 100qn, 1qn+, 10qn+, 100qn+ increments
+        - start at 10 item increments instead of 1m
+        - Shift click when placing structures, entities, and buildings to place multiple
+        - Add / remove skills points option in the stats tab
+        - Info tab
+        - Removing items based on increment setting instead of item count.
+        - Add item sprite to side bar hover
+    
+V 1.2
+
+    Completed:
+    
+        - Correct info tab spacing
+        - World Tab
+        - Ability to destroy npcs and buildings
+        - Fix 1x1 structures not centering properly
+        - Invincible toggle
+        - Fix issue of being able to switch tabs while placing buildings
+        - Teleport to cursor option
+        - start at 1 item increment instead of 10
+        - Investigate and fix random black screens
+        - Add 50, 500, 5k, 50k, 500k item increments
+        - Update screenshots on steam to the V 1.2 menu
+        - Ability to edit the item chests give
+        - Fix on new game objPlayer variables
+        
+V 1.2.1
+
+    Completed:
+        
+        - Added more objects to the obliterate option.
+        - Fixed being able to obliterate yourself.
+        
+V 1.2.2
+
+    Completed:
+    
+        - Make settings save between rooms.
+
+    Planned:

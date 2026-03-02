@@ -1,0 +1,19 @@
+#define UseStonePickaxe
+
+    UseCustomPickaxe(
+    
+        2,
+        3,
+        [3, 5],
+        6,
+        [1, 3],
+        4,
+        [3, 4],
+        [4, 5],
+        3,
+        [3, 5],
+        true,
+        1,
+        [1, 2]
+        
+    );
